@@ -2,9 +2,8 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning School Stuff
 - 💞️ I’m looking to collaborate on Coding
-- * You can reach out to me on github
-
+- * You can reach out to me on Github
+- *Im Currently new to Github
 <!---
-Userflying/Userflying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Userflying is looking forward to Github
+curious
